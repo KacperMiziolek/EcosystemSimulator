@@ -4,10 +4,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-orange)
 ![Pygame](https://img.shields.io/badge/Library-Pygame-green)
 
-> **PL:** Symulacja ekosystemu sawanny, w której agenci (zwierzęta) uczą się przetrwania i poruszania przy użyciu Głębokiego Uczenia ze Wzmocnieniem (Deep Q-Network).
->
-> **EN:** A savanna ecosystem simulation where agents (animals) learn to survive and navigate using Deep Q-Network (Reinforcement Learning).
-
 ## 📋 About The Project
 
 This project demonstrates the practical application of **Reinforcement Learning (RL)**. Unlike traditional hard-coded AI, the agents in this simulation are not programmed with explicit rules on how to move. Instead, they utilize a **Deep Q-Network (DQN)** to learn optimal strategies through trial and error, responding to rewards and penalties defined in the environment.
