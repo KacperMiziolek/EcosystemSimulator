@@ -1,4 +1,4 @@
-# AI Savanna Simulator (DQN) 🦁🤖
+# AI Savanna Simulator (DQN)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-orange)
